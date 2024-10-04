@@ -18,21 +18,21 @@ limitations under the License.
 
 This product uses third party software in accordance with their respective licenses:
 
-  * argparse v.2.0.1 | license: Python-2.0
-  * builder-util-runtime v.9.2.5 | license: MIT | author: Vladimir Krivosheev | homepage: https://github.com/electron-userland/electron-builder
-  * debug v.4.3.7 | license: MIT | author: Josh Junon (https://github.com/qix-)
-  * electron-updater v.6.3.4 | license: MIT | author: Vladimir Krivosheev | homepage: https://github.com/electron-userland/electron-builder
-  * fs-extra v.10.1.0 | license: MIT | author: JP Richardson <jprichardson@gmail.com> | homepage: https://github.com/jprichardson/node-fs-extra
-  * graceful-fs v.4.2.11 | license: ISC
-  * js-yaml v.4.1.0 | license: MIT | author: Vladimir Zapparov <dervus.grim@gmail.com>
-  * jsonfile v.6.1.0 | license: MIT | author: JP Richardson <jprichardson@gmail.com>
-  * lazy-val v.1.0.5 | license: MIT | author: Vladimir Krivosheev | homepage: https://github.com/develar/lazy-val
-  * lodash.escaperegexp v.4.1.2 | license: MIT | author: John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/) | homepage: https://lodash.com/
-  * lodash.isequal v.4.5.0 | license: MIT | author: John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/) | homepage: https://lodash.com/
-  * ms v.2.1.3 | license: MIT
-  * sax v.1.4.1 | license: ISC | author: Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)
-  * semver v.7.6.3 | license: ISC | author: GitHub Inc.
-  * tiny-typed-emitter v.2.1.0 | license: MIT | author: Zurab Benashvili <zura.benashvili@gmail.com>
-  * universalify v.0.1.2 | license: MIT | author: Ryan Zimmerman <opensrc@ryanzim.com> | homepage: https://github.com/RyanZim/universalify#readme
+  * argparse v.2.0.1 | license: [Python-2.0](./licenses/argparse.LICENSE.md)
+  * [builder-util-runtime](https://github.com/electron-userland/electron-builder) v.9.2.5 | license: [MIT](./licenses/builder-util-runtime.LICENSE.md) | author: Vladimir Krivosheev
+  * debug v.4.3.7 | license: [MIT](./licenses/debug.LICENSE.md) | author: Josh Junon (https://github.com/qix-)
+  * [electron-updater](https://github.com/electron-userland/electron-builder) v.6.3.4 | license: [MIT](./licenses/electron-updater.LICENSE.md) | author: Vladimir Krivosheev
+  * [fs-extra](https://github.com/jprichardson/node-fs-extra) v.10.1.0 | license: [MIT](./licenses/fs-extra.LICENSE.md) | author: JP Richardson <jprichardson@gmail.com>
+  * graceful-fs v.4.2.11 | license: [ISC](./licenses/graceful-fs.LICENSE.md)
+  * js-yaml v.4.1.0 | license: [MIT](./licenses/js-yaml.LICENSE.md) | author: Vladimir Zapparov <dervus.grim@gmail.com>
+  * jsonfile v.6.1.0 | license: [MIT](./licenses/jsonfile.LICENSE.md) | author: JP Richardson <jprichardson@gmail.com>
+  * [lazy-val](https://github.com/develar/lazy-val) v.1.0.5 | license: [MIT](./licenses/lazy-val.LICENSE.md) | author: Vladimir Krivosheev
+  * [lodash.escaperegexp](https://lodash.com/) v.4.1.2 | license: [MIT](./licenses/lodash.escaperegexp.LICENSE.md) | author: John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)
+  * [lodash.isequal](https://lodash.com/) v.4.5.0 | license: [MIT](./licenses/lodash.isequal.LICENSE.md) | author: John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)
+  * ms v.2.1.3 | license: [MIT](./licenses/ms.LICENSE.md)
+  * sax v.1.4.1 | license: [ISC](./licenses/sax.LICENSE.md) | author: Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)
+  * semver v.7.6.3 | license: [ISC](./licenses/semver.LICENSE.md) | author: GitHub Inc.
+  * tiny-typed-emitter v.2.1.0 | license: [MIT](./licenses/tiny-typed-emitter.LICENSE.md) | author: Zurab Benashvili <zura.benashvili@gmail.com>
+  * [universalify](https://github.com/RyanZim/universalify#readme) v.0.1.2 | license: [MIT](./licenses/universalify.LICENSE.md) | author: Ryan Zimmerman <opensrc@ryanzim.com>
 
-You will find copies of third party software Licenses in the `lic/` folder.
+You will find copies of third party software Licenses in the [licenses/](./licenses/) folder.
