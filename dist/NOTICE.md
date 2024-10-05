@@ -35,4 +35,4 @@ This product uses third party software in accordance with their respective licen
   * **[tiny-typed-emitter](https://npmjs.com/package/tiny-typed-emitter)** `v.2.1.0` ⚖️ license: [MIT](./licenses/tiny-typed-emitter.LICENSE.md) • author: Zurab Benashvili <zura.benashvili@gmail.com>
   * **[universalify](https://npmjs.com/package/universalify)** `v.0.1.2` ⚖️ license: [MIT](./licenses/universalify.LICENSE.md) • author: Ryan Zimmerman <opensrc@ryanzim.com>
 
-You will find copies of third party software Licenses in the [licenses/](./licenses/) folder.
+You will find copies of third party software Licenses in the [/licenses/](./licenses/) folder.
