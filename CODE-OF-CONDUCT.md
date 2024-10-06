@@ -21,10 +21,8 @@ This Code of Conduct applies within all project spaces, including but not limite
 
 ## Reporting Issues
 
-If you witness or experience behavior that does not meet our standards, please report it to <conduct@socialdetox.ai> so we can address the situation appropriately.
+If you witness or experience behavior that does not meet our standards, please report it to <hello@socialdetox.ai> so we can address the situation appropriately.
 
 Thank you for your understanding.
 
-> **Mark Jivko** (<mark@socialdetox.ai>),
->
-> Chief Product & Technology Officer
+> **Mark Jivko** (<mark@socialdetox.ai>) | CPTO

@@ -14,11 +14,9 @@ SocialDetox.ai is part of an internal initiative and is developed exclusively by
 
 Even though contributions are closed to the public, we encourage you to follow the project for updates and new releases.
 
--   If you encounter bugs or have suggestions feel free to contact us directly at <hey@socialdetox.ai>.
+-   If you encounter bugs or have suggestions feel free to contact us directly at <hello@socialdetox.ai>.
 -   Stay tuned for announcements via our [project website](https://socialdetox.ai) for any changes to our contribution policy.
 
 Thank you for your understanding.
 
-> **Mark Jivko** (<mark@socialdetox.ai>),
->
-> Chief Product & Technology Officer
+> **Mark Jivko** (<mark@socialdetox.ai>) | CPTO

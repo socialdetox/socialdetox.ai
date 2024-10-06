@@ -1,6 +1,6 @@
 {
     "name": "socialdetox.ai",
-    "version": "0.0.5",
+    "version": "0.0.3",
     "description": "AI agents for social media detox",
     "author": "SocialDetox.ai",
     "license": "Apache-2.0",
@@ -51,7 +51,7 @@
             "artifactName": "${productName}-${version}.${ext}",
             "target": "deb",
             "category": "Utility",
-            "maintainer": "SocialDetox.ai <hey@socialdetox.ai>",
+            "maintainer": "SocialDetox.ai <hello@socialdetox.ai>",
             "description": "AI agents for social media detox"
         },
         "nsis": {
