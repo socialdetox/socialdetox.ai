@@ -1,6 +1,4 @@
 /**
- * Build & Publish actions
- *
  * @architect Mark Jivko <mark@socialdetox.ai>
  * @copyright © 2024 SocialDetox.ai https://socialdetox.ai
  *
@@ -22,7 +20,7 @@ const path = require("path");
 // Synchronous tasks
 const tasks = {
     lint: ["Linting", "npm", ["run", "lint"]],
-    tag: ["Git tag", "npm", ["run", "tag"]],
+    tag: ["Git tag", "node", [path.join(__dirname, "tag.js")]],
     build: ["Build & Publish app", "electron-builder"]
 };
 

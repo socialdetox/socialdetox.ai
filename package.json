@@ -7,9 +7,9 @@
     "private": true,
     "main": "run.js",
     "scripts": {
-        "format": "prettier --write \"tools/**/*.js\"",
+        "dev": "electron ./dist/run.js",
         "lint": "eslint --fix --cache \"tools/**/*.js\"",
-        "tag": "node tools/tag",
+        "format": "prettier --write \"tools/**/*.js\"",
         "build": "node tools/build"
     },
     "build": {

@@ -1,6 +1,6 @@
 /* global process */
 /**
- * Dummy Electron.js application entry point
+ * Electron.js application entry point
  *
  * @architect Mark Jivko <mark@socialdetox.ai>
  * @copyright © 2024 SocialDetox.ai https://socialdetox.ai
